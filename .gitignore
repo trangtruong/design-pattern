@@ -1,0 +1,10 @@
+**/.*
+!/.gitignore
+**/target
+/target
+.settings/*
+.idea/*
+.classpath
+.project
+designpattern.iml
+/bin
